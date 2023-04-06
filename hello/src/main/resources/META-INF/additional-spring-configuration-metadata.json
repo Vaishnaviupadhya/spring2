@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "sync1.url",
+    "type": "java.lang.String",
+    "description": "A description for 'sync1.url'"
+  },
+  {
+    "name": "async.url",
+    "type": "java.lang.String",
+    "description": "A description for 'async.url'"
+  },
+  {
+    "name": "sync2.url",
+    "type": "java.lang.String",
+    "description": "A description for 'sync2.url'"
+  }
+]}
